@@ -1,0 +1,36 @@
+{
+  "responses": [
+    {
+      "scoreThreshold": 95,
+      "messages": [
+        "Well, look at you, speedy fingers. You're not half-bad.",
+        "Your typing speed is almost respectable. Almost.",
+        "A rare display of competence. Don't let it go to your head."
+      ]
+    },
+    {
+      "scoreThreshold": 80,
+      "messages": [
+        "That's a 'meh' performance at best. You've seen better days.",
+        "Are you using a keyboard, or a pile of wet noodles?",
+        "I've seen snails move faster. And they don't even have fingers."
+      ]
+    },
+    {
+      "scoreThreshold": 60,
+      "messages": [
+        "Did you lose a bet? Because this performance is a punchline.",
+        "My disappointment is immeasurable, and my day is ruined.",
+        "I'm not saying you're slow, but the words are growing moss."
+      ]
+    },
+    {
+      "scoreThreshold": 0,
+      "messages": [
+        "Is there a typo in your score, or are you just that bad?",
+        "You're a disgrace to typists everywhere. Just give up.",
+        "I've seen better accuracy from a cat walking on a keyboard."
+      ]
+    }
+  ]
+}
