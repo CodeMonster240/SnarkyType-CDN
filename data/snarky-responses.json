@@ -5,7 +5,59 @@
       "messages": [
         "Well, look at you, speedy fingers. You're not half-bad.",
         "Your typing speed is almost respectable. Almost.",
-        "A rare display of competence. Don't let it go to your head."
+        "A rare display of competence. Don't let it go to your head.",
+        "Are you a keyboard wizard, or is this just a lucky day?",
+        "Blazing fingers! The keyboard's practically smoking.",
+        "You're typing so fast, the keys are begging for mercy.",
+        "Is this a world record, or are you just showing off?",
+        "Your fingers are moving like they’ve got a caffeine buzz.",
+        "Impressive! The keyboard’s giving you a standing ovation.",
+        "Are you typing or conducting a symphony with those keys?",
+        "Speed demon! You’re making other typists jealous.",
+        "This performance deserves a gold star... or at least a sticker.",
+        "You’re typing like you’re auditioning for a superhero movie.",
+        "The keyboard’s in love with you. Keep it up!",
+        "Wow, your fingers are basically Olympic sprinters."
+      ]
+    },
+    {
+      "scoreThreshold": 90,
+      "messages": [
+        "Not bad, keyboard warrior. You almost broke a sweat there.",
+        "You're typing like you mean it... or at least trying to.",
+        "Solid effort, but don't start signing up for typing tournaments yet.",
+        "Your fingers are flying, but not quite at warp speed.",
+        "Pretty good! The keyboard’s starting to respect you.",
+        "You’re typing like you’ve got somewhere to be. Slow down!",
+        "Nice hustle, but you’re not breaking any records yet.",
+        "Your fingers are putting in work, but they’re not employee of the month.",
+        "Not terrible! You’re almost making the keyboard proud.",
+        "You’re typing like you’ve had one too many energy drinks.",
+        "Good effort, but the keys aren’t throwing a parade just yet.",
+        "You’re getting there, but don’t quit your day job.",
+        "The keyboard’s impressed, but it’s not writing you a love letter.",
+        "Solid speed! You’re making the average typist nervous.",
+        "Keep it up, and you might just earn a keyboard high-five."
+      ]
+    },
+    {
+      "scoreThreshold": 85,
+      "messages": [
+        "You're getting there, but the keyboard's not impressed yet.",
+        "Decent speed, but I've seen toasters type with more flair.",
+        "You're above average, but don't pop the champagne just yet.",
+        "Your fingers are trying, but they’re not winning any races.",
+        "Not bad, but the keyboard’s yawning a little.",
+        "You’re typing like you’re in a hurry to nowhere special.",
+        "Okay effort, but the keys are barely breaking a sweat.",
+        "You’re making progress, but don’t expect a fan club yet.",
+        "Your typing’s like a warm-up act—decent, but not the main event.",
+        "The keyboard’s like, ‘Eh, I’ve seen better, but you’ll do.’",
+        "You’re typing fast enough to avoid embarrassment. Barely.",
+        "Not the worst, but you’re not typing poetry just yet.",
+        "Your fingers are moving, but they’re not setting any records.",
+        "You’re keeping up, but the keyboard’s not writing home about it.",
+        "Fair effort, but you’re not dazzling the typing gods yet."
       ]
     },
     {
@@ -13,7 +65,59 @@
       "messages": [
         "That's a 'meh' performance at best. You've seen better days.",
         "Are you using a keyboard, or a pile of wet noodles?",
-        "I've seen snails move faster. And they don't even have fingers."
+        "I've seen snails type faster. And they don’t even have fingers.",
+        "Your typing’s like a slow dance with no rhythm.",
+        "Not your finest hour, but at least you showed up.",
+        "The keyboard’s wondering if you’re even trying.",
+        "You’re typing like you’re daydreaming about lunch.",
+        "This speed’s okay, but it’s not winning any awards.",
+        "Your fingers are moving, but they’re not in a rush.",
+        "It’s like you’re typing with mittens on. Step it up!",
+        "The keyboard’s bored. Give it something to talk about!",
+        "You’re typing like you’re stuck in slow-motion mode.",
+        "This performance is middle-of-the-road, and not in a good way.",
+        "Your speed’s like a lazy Sunday drive—way too relaxed.",
+        "Come on, you’re typing like you’ve got all day!"
+      ]
+    },
+    {
+      "scoreThreshold": 75,
+      "messages": [
+        "Your fingers are moving, but are they on a coffee break?",
+        "Not terrible, but the keyboard deserves a better dance partner.",
+        "You're typing like you're solving a puzzle one key at a time.",
+        "This speed’s like a leisurely stroll through a swamp.",
+        "The keyboard’s wondering if you’re lost in thought.",
+        "You’re typing, but it’s more of a casual saunter.",
+        "Your fingers are awake, but they’re not fully committed.",
+        "This performance is like decaf coffee—weak and uninspiring.",
+        "You’re typing like you’re distracted by a shiny object.",
+        "The keys are waiting for you to pick up the pace.",
+        "Not bad, but you’re not exactly setting the keyboard on fire.",
+        "Your speed’s like a turtle racing a sloth. Guess who’s losing?",
+        "You’re typing like you’re writing a novel by candlelight.",
+        "This effort’s okay, but the keyboard’s not throwing a party.",
+        "Come on, your fingers are slacking harder than a Monday morning."
+      ]
+    },
+    {
+      "scoreThreshold": 70,
+      "messages": [
+        "Did you borrow those fingers from a sloth or something?",
+        "Your typing speed is giving me second-hand embarrassment.",
+        "Keep practicing, unless you want to lose to a typewriter.",
+        "Your fingers are moving, but they’re clearly on strike.",
+        "This speed’s so slow, it’s practically a nap.",
+        "The keyboard’s like, ‘Is this guy for real?’",
+        "You’re typing like you’re allergic to speed.",
+        "This performance is making snails look like speed demons.",
+        "Your fingers are on the keys, but they’re phoning it in.",
+        "It’s like you’re typing in slow motion for dramatic effect.",
+        "The keyboard’s begging you to show some hustle.",
+        "You’re typing like you’re stuck in molasses.",
+        "This effort’s so sluggish, it’s practically a protest.",
+        "Your speed’s making the keyboard rethink its life choices.",
+        "Come on, even a broken typewriter could do better."
       ]
     },
     {
@@ -21,7 +125,99 @@
       "messages": [
         "Did you lose a bet? Because this performance is a punchline.",
         "My disappointment is immeasurable, and my day is ruined.",
-        "I'm not saying you're slow, but the words are growing moss."
+        "I'm not saying you're slow, but the words are growing moss.",
+        "Your typing’s like a bad movie—slow and painful to watch.",
+        "The keyboard’s wondering if you’re typing or napping.",
+        "This speed’s so low, it’s practically underground.",
+        "You’re typing like you’re deciphering ancient hieroglyphs.",
+        "Your fingers are moving, but they’re on a coffee break.",
+        "This performance is making glaciers look speedy.",
+        "The keys are like, ‘Come on, give us something to work with!’",
+        "You’re typing like you’re stuck in a time loop.",
+        "This effort’s so slow, it’s practically moving backward.",
+        "Your speed’s making the keyboard file for early retirement.",
+        "Are you typing, or just petting the keyboard gently?",
+        "This is less typing and more like a leisurely key caress."
+      ]
+    },
+    {
+      "scoreThreshold": 50,
+      "messages": [
+        "Are you typing or just tapping the keys for moral support?",
+        "This speed makes glaciers look like Olympic sprinters.",
+        "Your keyboard’s begging for a vacation after that effort.",
+        "You’re typing like you’re stuck in a 90s dial-up era.",
+        "The keyboard’s wondering if you forgot how to type.",
+        "This performance is slower than a sloth on vacation.",
+        "Your fingers are moving, but they’re clearly on sabbatical.",
+        "Are you typing or just practicing for the slow-motion replay?",
+        "This speed’s so low, it’s practically a geological event.",
+        "The keys are like, ‘Wake us up when you’re ready to try.’",
+        "You’re typing like you’re wading through quicksand.",
+        "This effort’s so sluggish, it’s making turtles jealous.",
+        "Your speed’s like a snail race, and you’re not winning.",
+        "The keyboard’s ready to file a complaint for neglect.",
+        "Come on, even a sleepy cat could type faster than this."
+      ]
+    },
+    {
+      "scoreThreshold": 40,
+      "messages": [
+        "Is your keyboard stuck in molasses, or is that just you?",
+        "I've seen better typing from a T-Rex with tiny arms.",
+        "You're typing like the internet’s still on dial-up.",
+        "Your fingers are moving, but they’re clearly on vacation.",
+        "This speed’s so slow, it’s practically a museum exhibit.",
+        "The keyboard’s like, ‘Are you typing or just daydreaming?’",
+        "You’re typing like you’re stuck in a time warp.",
+        "This performance is slower than a sunny afternoon nap.",
+        "Your fingers are on the keys, but they’re not motivated.",
+        "Are you typing or just giving the keyboard a gentle pat?",
+        "This speed’s making the keyboard question its purpose.",
+        "You’re typing like you’re auditioning for a sloth biopic.",
+        "The keys are waiting for you to show some enthusiasm.",
+        "This effort’s so slow, it’s practically a zen meditation.",
+        "Even a rusty typewriter would outshine this performance."
+      ]
+    },
+    {
+      "scoreThreshold": 30,
+      "messages": [
+        "Did you forget where the keys are, or is this performance art?",
+        "Your typing speed is a crime against productivity.",
+        "Even a broken clock types faster twice a day.",
+        "You’re typing like you’re stuck in a slow-motion montage.",
+        "The keyboard’s wondering if you’re lost in a daydream.",
+        "This speed’s so low, it’s practically a fossil record.",
+        "Are you typing or just tapping out a lullaby?",
+        "Your fingers are moving, but they’re clearly on strike.",
+        "This performance is slower than paint drying on a wall.",
+        "The keys are like, ‘Come on, give us a reason to live!’",
+        "You’re typing like you’re navigating a maze blindfolded.",
+        "This effort’s so sluggish, it’s practically a protest march.",
+        "Your speed’s making the keyboard consider early retirement.",
+        "Are you typing or just practicing for the slow clap?",
+        "This is less typing and more like a leisurely key stroll."
+      ]
+    },
+    {
+      "scoreThreshold": 20,
+      "messages": [
+        "Are you typing with oven mitts on, or is this just a bad day?",
+        "Your score’s so low, it’s practically an archeological find.",
+        "This performance is so slow, it’s practically a protest.",
+        "You’re typing like you’re stuck in a molasses flood.",
+        "The keyboard’s wondering if you’re typing or just napping.",
+        "This speed’s so low, it’s practically moving backward.",
+        "Are you typing or just giving the keys a friendly nudge?",
+        "Your fingers are on the keys, but they’re clearly on vacation.",
+        "This performance is slower than a sloth on sedatives.",
+        "The keys are like, ‘Wake us up when you’re ready to try.’",
+        "You’re typing like you’re stuck in a time paradox.",
+        "This effort’s so slow, it’s making turtles look like sprinters.",
+        "Your speed’s so low, it’s practically a historical artifact.",
+        "The keyboard’s begging for a spark of enthusiasm.",
+        "This is less typing and more like a key-tapping meditation."
       ]
     },
     {
@@ -29,7 +225,19 @@
       "messages": [
         "Is there a typo in your score, or are you just that bad?",
         "You're a disgrace to typists everywhere. Just give up.",
-        "I've seen better accuracy from a cat walking on a keyboard."
+        "I've seen better accuracy from a cat walking on a keyboard.",
+        "Are you typing or just practicing for the world’s slowest text?",
+        "This score’s so low, it’s practically in the negative.",
+        "The keyboard’s like, ‘I deserve better than this.’",
+        "You’re typing like you’re allergic to the alphabet.",
+        "This performance is slower than a dial-up modem’s dreams.",
+        "Your fingers are on the keys, but they’re clearly asleep.",
+        "Is this a score, or did you just mash the keyboard?",
+        "You’re typing like you’re stuck in a time freeze.",
+        "This effort’s so bad, it’s making the keyboard cry.",
+        "Your speed’s so low, it’s practically a standstill.",
+        "The keys are begging for someone to show them some love.",
+        "This is less typing and more like a keyboard nap session."
       ]
     }
   ]
